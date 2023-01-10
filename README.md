@@ -16,4 +16,4 @@
 
 Также возле каждого комментария появилась новая кнопка, которая позволит разом скачать все вложения из этого комментария.
 
-Пример работы - https://github.com/worldisnothing/JiraDownloads/blob/main/Jira%20Downloader.mp4
+[Пример работы](https://github.com/worldisnothing/JiraDownloads/blob/main/Jira%20Downloader.mp4)
